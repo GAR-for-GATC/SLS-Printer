@@ -1,0 +1,23 @@
+Dependencies for Project 'Cortex M4 tutorial', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x55E12886)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x55E25E10)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I..\..\..\.. --c99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_BLIZZARD_RB1 -DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (lm4f120h5qr.h)(0x55D96141)
+I (tm4c_cmsis.h)(0x55E11DAB)
+I (core_cm4.h)(0x55E11DEE)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532CBCA2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532CBCA2)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532CBCA2)
+F (C:\ti\TivaWare_C_Series-2.1.1.71\driverlib\rvmdk\driverlib.lib)(0x55DA3E6F)()
+F (.\system_TM4C123.c)(0x532CBB96)(-c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork -I..\..\..\.. --c99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_BLIZZARD_RB1 -DTM4C123GH6PM-o .\system_tm4c123.o --omf_browse .\system_tm4c123.crf --depend .\system_tm4c123.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C88A34)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h)(0x532CB8F8)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h)(0x532CB8F8)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532CBCA2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532CBCA2)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532CBCA2)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532CBCA2)
+I (C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532CB8F8)
+F (.\lm4f120h5qr.h)(0x55D96141)()
+F (.\tm4c_cmsis.h)(0x55E11DAB)()
+F (.\core_cm4.h)(0x55E11DEE)()
